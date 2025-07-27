@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Data Visualization and Interaction at Cincinnati
         Research Group
       image:
-        filename: welcome.jpg
+        filename: display-image.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Academic research lab focused on helping people connect with their data and each other.  
   
   - block: collection
     content:
